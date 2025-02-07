@@ -3,7 +3,8 @@
 In this modules challenge, First we have to create a repository named, python-api-challenge. This folder contains the jupyter notebook for weather data as well as vacation data. Api keys used in this challenge is hidden in the api_keys.py file. To make it hidden from others, we add the api_keys.py file to .gitignore. This way we can protect our api keys while still sharing our codes with others.
 
 
-<img width="1261" alt="Screenshot 2025-02-01 at 4 43 59 PM" src="https://github.com/user-attachments/assets/08676cff-8080-479e-b27b-94cd10f92254" />
+<img width="518" alt="Screenshot 2025-02-07 at 10 25 15 AM" src="https://github.com/user-attachments/assets/e2ed5420-44c5-465c-b942-27ff9750a5c5" />
+
 
 
  This challenge is broken down into two deliverables, WeatherPy and VacationPy.
